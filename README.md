@@ -1,4 +1,4 @@
 PM_services
 ===========
 
-policyMaker component for behaviors
+[policyMaker](https://github.com/druidops/policyMaker) services repository for behaviors
